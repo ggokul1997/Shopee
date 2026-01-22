@@ -1,6 +1,6 @@
 const products = [
   {
-    _id: '1',
+   
     name: 'Airpods Wireless Bluetooth Headphones',
     image: '/images/airpods.jpg',
     description:
@@ -13,7 +13,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
+  
     name: 'iPhone 15 Pro 256GB Memory',
     image: '/images/phone.jpg',
     description:
@@ -26,7 +26,7 @@ const products = [
     numReviews: 25,
   },
   {
-    _id: '3',
+   
     name: 'Samsung Galaxy S24 Ultra 512GB',
     image: '/images/sample.jpg',
     description:
@@ -39,7 +39,7 @@ const products = [
     numReviews: 30,
   },
   {
-    _id: '4',
+
     name: 'Sony WH-1000XM5 Noise Cancelling Headphones',
     image: '/images/airpods.jpg',
     description:
@@ -52,7 +52,7 @@ const products = [
     numReviews: 60,
   },
   {
-    _id: '5',
+
     name: 'Apple MacBook Air M3 13-inch',
     image: '/images/playstation.jpg',
     description:
@@ -65,7 +65,7 @@ const products = [
     numReviews: 22,
   },
   {
-    _id: '6',
+
     name: 'Dell XPS 15 OLED Laptop',
     image: '/images/mouse.jpg',
     description:
@@ -78,7 +78,6 @@ const products = [
     numReviews: 18,
   },
   {
-       _id: '7',
     name: 'Apple Watch Ultra 2',
     image: '/images/sample.jpg',
     description:
@@ -91,7 +90,6 @@ const products = [
     numReviews: 40,
   },
   {
-    _id: '8',
     name: 'Amazon Echo Show 10 (3rd Gen)',
     image: '/images/alexa.jpg',
     description:
@@ -104,7 +102,6 @@ const products = [
     numReviews: 35,
   },
   {
-    _id: '9',
     name: 'Logitech MX Master 3S Wireless Mouse',
     image: '/images/mouse.jpg',
     description:
@@ -117,7 +114,6 @@ const products = [
     numReviews: 55,
   },
   {
-    _id: '10',
     name: 'Razer BlackWidow V4 Pro Mechanical Keyboard',
     image: '/images/camera.jpg',
     description:
