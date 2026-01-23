@@ -4,13 +4,13 @@ import connectDB from './config/db.js';
 import productRoutes from './routes/productRoutes.js'
 import { notFound, errorHandler } from './middleware/errorMiddleware.js';
  
-dotenv.config()
+dotenv.config() 
 connectDB();
- 
-const app = express(); 
+  
+const app = express();   
 const PORT = process.env.PORT || 5000;
 
-
+ 
 app.get('/', (req, res) => {
   res.send('API is running...');  
 });
